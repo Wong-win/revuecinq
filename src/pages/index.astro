@@ -14,10 +14,15 @@ const categoryLabels: Record<string, string> = {
   technology: "Technologie",
 };
 
-const [hero, ...rest] = articles;
-const side = rest.slice(0, 2);
-const grid = rest.slice(2, 8);
-const bottomPool = rest.slice(8);
+// Featured article (flagged via frontmatter `featured: true`) — falls back to newest
+const featured = articles.find((a) => a.data.featured === true);
+const hero = featured || articles[0];
+const remaining = featured
+  ? articles.filter((a) => a.slug !== featured.slug)
+  : articles.slice(1);
+const side = remaining.slice(0, 2);
+const grid = remaining.slice(2, 8);
+const bottomPool = remaining.slice(8);
 
 const byCategory = {
   fashion: bottomPool.filter((a) => a.data.category === "fashion").slice(0, 6),
