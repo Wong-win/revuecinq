@@ -43,7 +43,7 @@ Les tendances existent pour être traversées, pas pour être accumulées. Une p
 
 L'astuce, quand une tendance vous tente, est de se poser une seule question : *est-ce que je peux l'imaginer dans trois ans sur une photo ?* Si la réponse est non, c'est probablement de la mode. Si la réponse est oui, c'est peut-être un classique en devenir.
 
-![Détail de matières nobles : lainage, cachemire, cuir grainé](https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1800&q=82)
+![Détail de matières nobles : lainage, cachemire, cuir grainé](https://images.unsplash.com/photo-1583847268964-b28dc8f51f92?auto=format&fit=crop&w=1800&q=82)
 
 ## La couleur comme architecture
 

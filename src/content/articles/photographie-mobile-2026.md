@@ -42,7 +42,7 @@ Le mode portrait, popularisé par l'iPhone en 2016, est désormais mature. Le d�
 
 **Le piège** : le mode portrait reste un calcul. Quand il se trompe, la coupe est visible (oreille coupée, mèche floue). Pour les portraits vraiment importants, mieux vaut désactiver le mode et photographier sans bokeh artificiel.
 
-![Gros plan sur un smartphone avec un écran affichant une photo en mode portrait](https://images.unsplash.com/photo-1512054502232-10a0a035d672?auto=format&fit=crop&w=1800&q=82)
+![Gros plan sur un smartphone avec un écran affichant une photo en mode portrait](https://images.unsplash.com/photo-1494173853739-c21f58b16055?auto=format&fit=crop&w=1800&q=82)
 
 ## Ce qui n'a pas changé
 

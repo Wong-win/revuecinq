@@ -3,7 +3,7 @@ title: "Sept accessoires qui traversent les modes"
 date: "2026-09-01"
 category: "fashion"
 excerpt: "Une montre bien choisie, un sac de bonne coupe, un foulard en soie — les accessoires qui durent vingt ans plutôt que deux saisons."
-image: "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=1800&q=82"
+image: "https://images.unsplash.com/photo-1564594985645-4427056e22e2?auto=format&fit=crop&w=1800&q=82"
 imageAlt: "Montre vintage et accessoires de mode sur une table en bois"
 keywords: "accessoires intemporels, mode durable, foulard en soie, sac en cuir"
 ---

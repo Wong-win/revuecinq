@@ -36,7 +36,7 @@ Un setup de télétravail réussi repose sur cinq éléments. Aucun d'eux n'est 
 
 **L'idéal** : une lampe de bureau LED avec variateur (0 à 100%) et température de couleur ajustable (3000K à 6000K). Les marques BenQ ScreenBar (qui se fixe sur l'écran) ou Dyson Lightcycle sont des références. Budget : 80 à 200€.
 
-![Setup de télétravail complet : bureau assis-debout, écran 27 pouces, clavier mécanique, lampe LED](https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?auto=format&fit=crop&w=1800&q=82)
+![Setup de télétravail complet : bureau assis-debout, écran 27 pouces, clavier mécanique, lampe LED](https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?auto=format&fit=crop&w=1800&q=82)
 
 ## Le budget total
 

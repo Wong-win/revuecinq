@@ -24,7 +24,7 @@ La méthode japonaise du *dan-sha-ri* (litéralement « refuser, séparer, repar
 
 Appliquée sérieusement, cette méthode divise par deux le nombre d'objets dans un foyer, sans perte de confort. C'est le point de départ obligé d'un aménagement réussi.
 
-![Studio parisien avec canapé-lit, table pliante et étagères murales](https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1800&q=82)
+![Studio parisien avec canapé-lit, table pliante et étagères murales](https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?auto=format&fit=crop&w=1800&q=82)
 
 ## Les meubles qui transforment un petit espace
 

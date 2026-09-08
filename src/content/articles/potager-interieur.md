@@ -24,7 +24,7 @@ Trois systèmes se partagent le marché du potager d'intérieur, avec des approc
 
 Pour la plupart des gens, le système 2 (LED intégrés) est le bon compromis. Démarrage rapide, résultat garanti, entretien minimal.
 
-![Jardinière d'intérieur avec LED, plusieurs herbes aromatiques qui poussent](https://images.unsplash.com/photo-1416879595882-3373a0480b5b?auto=format&fit=crop&w=1800&q=82)
+![Jardinière d'intérieur avec LED, plusieurs herbes aromatiques qui poussent](https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&w=1800&q=82)
 
 ## Ce qu'on peut vraiment cultiver en intérieur
 
@@ -59,7 +59,7 @@ La lumière est le premier facteur de succès d'un potager d'intérieur. Sans lu
 
 **La durée d'éclairage** : 12 à 16 heures par jour pour la plupart des plantes. Les timers automatiques sont un accessoire indispensable.
 
-![LED horticole au-dessus d'un bac de salades](https://images.unsplash.com/photo-1416879595882-3373a0480b5b?auto=format&fit=crop&w=1800&q=82)
+![LED horticole au-dessus d'un bac de salades](https://images.unsplash.com/photo-1463936575829-25148e1db1b8?auto=format&fit=crop&w=1800&q=82)
 
 ## L'arrosage en intérieur
 

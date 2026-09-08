@@ -3,7 +3,7 @@ title: "L'art du layering en mi-saison : comment s'habiller entre 8 et 18 degré
 date: "2026-08-25"
 category: "fashion"
 excerpt: "Le layering n'est pas superposer des couches au hasard. C'est une architecture du vêtement, qui demande méthode et économie de moyens."
-image: "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=1800&q=82"
+image: "https://images.unsplash.com/photo-1496217590455-aa63a8350eea?auto=format&fit=crop&w=1800&q=82"
 imageAlt: "Silhouette en couches multiples pour la mi-saison"
 keywords: "layering, mi-saison, superposition vêtements, style automne"
 ---
@@ -24,7 +24,7 @@ Le mérinos a un avantage considérable : il gère l'humidité sans retenir les 
 
 C'est la couche la plus expressive. C'est elle qu'on voit le plus. C'est donc celle où la couleur et la texture comptent le plus.
 
-![Superposition de couches légères : chemise en flanelle ouverte sur t-shirt blanc](https://images.unsplash.com/photo-1483985988355-763728e1935b?auto=format&fit=crop&w=1800&q=82)
+![Superposition de couches légères : chemise en flanelle ouverte sur t-shirt blanc](https://images.unsplash.com/photo-1542060748-10c28b62716f?auto=format&fit=crop&w=1800&q=82)
 
 **La couche extérieure.** Le manteau, la veste, le blouson. C'est elle qui protège du vent, de la pluie, du froid extérieur. En mi-saison, on choisit un manteau pas trop chaud (laine froide, trench, veste en cuir) qu'on peut porter même quand le soleil revient.
 
