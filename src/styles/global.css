@@ -484,32 +484,14 @@ ul, ol { padding-left: 1.4em; line-height: 1.7; }
 }
 
 /* ============================================
-   Category band (1 hero + 3 small)
+   Category band (6 equal cards per category)
    ============================================ */
 .cat-band {
   display: grid;
-  grid-template-columns: 1.3fr 1fr 1fr 1fr;
-  gap: 1.8rem;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 1.5rem;
   padding-bottom: 3rem;
 }
-
-.cat-band .cat-hero {
-  display: block;
-  grid-row: span 2;
-}
-.cat-band .cat-hero .card-img {
-  aspect-ratio: 4 / 5;
-}
-.cat-band .cat-hero h3 {
-  font-size: 1.5rem;
-  line-height: 1.15;
-  margin-top: 0.6rem;
-}
-
-.cat-band .cat-side { display: contents; }
-.cat-band .cat-side .card { padding-bottom: 1.2rem; border-bottom: 1px solid var(--color-border); }
-.cat-band .cat-side .card:last-child { border-bottom: none; }
-.cat-band .cat-side .card-img { aspect-ratio: 16 / 10; }
 
 /* ============================================
    Article page
