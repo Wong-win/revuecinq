@@ -3,7 +3,7 @@ title: "L'art de la table à la française, sans chichis"
 date: "2026-08-28"
 category: "lifestyle"
 excerpt: "Une belle table ne demande ni argenterie de famille ni nappe brodée — juste trois principes, et le goût de faire les choses bien."
-image: "https://images.unsplash.com/photo-1542820229-081e1ebce09c?auto=format&fit=crop&w=1800&q=82"
+image: "https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&w=1800&q=82"
 imageAlt: "Table dressée avec vaisselle blanche, verres en cristal et pain"
 keywords: "art de la table, table française, décoration table, recevoir"
 ---

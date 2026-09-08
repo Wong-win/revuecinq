@@ -3,7 +3,7 @@ title: "Sept accessoires qui traversent les modes"
 date: "2026-09-01"
 category: "fashion"
 excerpt: "Une montre bien choisie, un sac de bonne coupe, un foulard en soie — les accessoires qui durent vingt ans plutôt que deux saisons."
-image: "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=1800&q=82"
+image: "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=1800&q=82"
 imageAlt: "Montre vintage et accessoires de mode sur une table en bois"
 keywords: "accessoires intemporels, mode durable, foulard en soie, sac en cuir"
 ---
@@ -38,7 +38,7 @@ Il existe mille façons de le porter : noué au cou, sur la tête, autour de la 
 
 La soie, contrairement à une idée reçue, n'est pas fragile. Elle se lave à la main avec un shampooing doux, se rince à l'eau froide, se sèche à plat sur une serviette, et se repasse à fer doux sur l'envers. Un foulard de qualité ainsi entretenu durera aussi longtemps que vous.
 
-![Foulard en soie noué sur un sac en cuir](https://images.unsplash.com/photo-1601925240970-98447ad94d4d?auto=format&fit=crop&w=1800&q=82)
+![Foulard en soie noué sur un sac en cuir](https://images.unsplash.com/photo-1559563458-527698bf5295?auto=format&fit=crop&w=1800&q=82)
 
 ## 4. Les lunettes de soleil bien ajustées
 

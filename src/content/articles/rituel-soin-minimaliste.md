@@ -29,7 +29,7 @@ Pourquoi ? Parce qu'elles sont tenables. Une routine à trois gestes, c'est une 
 
 À ces cinq produits, on peut ajouter, selon les peaux : un contour des yeux (à partir de trente-cinq ans, quand les premiers signes apparaissent), un soin de nuit (en hiver, quand la peau est plus sèche), un masque (une fois par semaine, pas plus). Mais l'idée reste la même : un produit, une fonction, pas de superposition hasardeuse.
 
-![Routine minimaliste posée sur un lavabo clair, peu de produits](https://images.unsplash.com/photo-1570194065650-d99fb4bedf0a?auto=format&fit=crop&w=1800&q=82)
+![Routine minimaliste posée sur un lavabo clair, peu de produits](https://images.unsplash.com/photo-1571781926291-c477ebfd024b?auto=format&fit=crop&w=1800&q=82)
 
 ## Le rituel du matin
 

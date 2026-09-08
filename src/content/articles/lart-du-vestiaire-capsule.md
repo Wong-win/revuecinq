@@ -3,7 +3,7 @@ title: "L'art du vestiaire capsule : moins, mais mieux"
 date: "2026-09-08"
 category: "fashion"
 excerpt: "Construire un dressing qui dure dix ans plutôt que dix saisons — les principes d'un vestiaire pensé comme une garde-robe d'architecte."
-image: "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?auto=format&fit=crop&w=1800&q=82"
+image: "https://images.unsplash.com/photo-1567401893414-76b7b1e5a7a5?auto=format&fit=crop&w=1800&q=82"
 imageAlt: "Vestiaire organisé avec des vêtements neutres et bien rangés"
 keywords: "vestiaire capsule, garde-robe minimaliste, mode durable, dressing"
 featured: true

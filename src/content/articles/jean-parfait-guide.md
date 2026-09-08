@@ -48,7 +48,7 @@ Parmi les dizaines de coupes proposées par l'industrie, trois traversent les mo
 
 **Le jean « tendance » à 30€.** Les coupes très mode (cargo, parachute, à coutures apparentes colorées) sont vendues à bas prix parce qu'elles sont destinées à être remplacées. C'est l'inverse de ce qu'on cherche.
 
-![Le jean brut se patine avec le temps, révélant des plis naturels](https://images.unsplash.com/photo-1604176354204-9268737828e4?auto=format&fit=crop&w=1800&q=82)
+![Le jean brut se patine avec le temps, révélant des plis naturels](https://images.unsplash.com/photo-1541099649105-f69ad21f3246?auto=format&fit=crop&w=1800&q=82)
 
 ## Le rituel des cent jours
 

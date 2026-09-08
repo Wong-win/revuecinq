@@ -3,7 +3,7 @@ title: "Le maquillage naturel qui prend cinq minutes"
 date: "2026-08-30"
 category: "beauty"
 excerpt: "Cinq produits, cinq minutes — un teint qui ressemble à de la peau, et non à un fond de teint."
-image: "https://images.unsplash.com/photo-1487412947147-5cebf100ffc2?auto=format&fit=crop&w=1800&q=82"
+image: "https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=1800&q=82"
 imageAlt: "Femme appliquant un rouge à lèvres nude avec un miroir"
 keywords: "maquillage naturel, teint nude, beauty routine, no makeup look"
 ---
@@ -34,7 +34,7 @@ Pour ce type de maquillage, les doigts sont plus précis que les pinceaux. La ch
 
 Le pinceau a sa place, mais pas dans une routine de cinq minutes. Il a sa place pour le fard à paupières, pour le contouring, pour les techniques studio. Pour le quotidien, les doigts suffisent — et ils sont toujours propres, disponibles, et à la bonne température.
 
-![Texture légère d'une crème teintée sur le dos de la main](https://images.unsplash.com/photo-1522335789203-aaa2f6c5ef2e?auto=format&fit=crop&w=1800&q=82)
+![Texture légère d'une crème teintée sur le dos de la main](https://images.unsplash.com/photo-1503236823255-94609f598e71?auto=format&fit=crop&w=1800&q=82)
 
 ## Ce qu'on évite
 

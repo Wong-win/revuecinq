@@ -3,7 +3,7 @@ title: "Maison connectée : les objets qui simplifient vraiment la vie"
 date: "2026-09-04"
 category: "technology"
 excerpt: "Ampoules, thermostats, caméras, serrures — la sélection des objets connectés qui apportent une vraie valeur, et ceux dont on peut se passer."
-image: "https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&w=1800&q=82"
+image: "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=1800&q=82"
 imageAlt: "Intérieur moderne avec éclairage connecté et technologie domestique"
 keywords: "maison connectée, objets connectés, smart home, domotique, IoT"
 ---
@@ -66,7 +66,7 @@ Pour ceux qui ont un chien ou un chat qu'ils laissent seuls la journée, c'est u
 
 **Le piège** : ne pas utiliser une caméra intérieure comme caméra de surveillance de la maison quand on est en vacances. Ces caméras sont piratables si on ne met pas à jour le firmware, et beaucoup d'utilisateurs les laissent avec un mot de passe par défaut.
 
-![Serrure connectée sur une porte d'entrée moderne, design épuré](https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&w=1800&q=82)
+![Serrure connectée sur une porte d'entrée moderne, design épuré](https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=1800&q=82)
 
 ## Les objets dont on peut se passer
 

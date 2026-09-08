@@ -26,7 +26,7 @@ Trois protocoles permettent de construire une maison connectée sans cloud.
 
 **Le choix** : pour un débutant, Matter est le plus simple, parce qu'il est supporté par les grands écosystèmes. Pour un bricoleur, Zigbee et Z-Wave offrent plus de flexibilité.
 
-![Box domotique Home Assistant sur une étagère, avec voyant vert allumé](https://images.unsplash.com/photo-1558002038-1055907df827?auto=format&fit=crop&w=1800&q=82)
+![Box domotique Home Assistant sur une étagère, avec voyant vert allumé](https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=1800&q=82)
 
 ## Les hubs locaux
 

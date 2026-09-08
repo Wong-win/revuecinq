@@ -3,7 +3,7 @@ title: "L'art du layering en mi-saison : comment s'habiller entre 8 et 18 degré
 date: "2026-08-25"
 category: "fashion"
 excerpt: "Le layering n'est pas superposer des couches au hasard. C'est une architecture du vêtement, qui demande méthode et économie de moyens."
-image: "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=1800&q=82"
+image: "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=1800&q=82"
 imageAlt: "Silhouette en couches multiples pour la mi-saison"
 keywords: "layering, mi-saison, superposition vêtements, style automne"
 ---
