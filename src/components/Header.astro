@@ -1,0 +1,47 @@
+---
+const navItems = [
+  { label: "Mode", href: "/fashion" },
+  { label: "Beauté", href: "/beauty" },
+  { label: "Lifestyle", href: "/lifestyle" },
+  { label: "Technologie", href: "/technology" },
+];
+
+const currentPath = Astro.url.pathname.replace(/\/$/, "") || "/";
+
+const today = new Date().toLocaleDateString("fr-FR", {
+  weekday: "long",
+  day: "numeric",
+  month: "long",
+  year: "numeric",
+});
+---
+
+<header class="site-header">
+  <div class="container">
+    <div class="header-top">
+      <a href="/" class="site-logo" aria-label="Revue Cinq — Accueil">
+        <span>Revue</span><span class="logo-mark">Cinq</span>
+      </a>
+      <div class="header-meta">
+        <span>{today}</span>
+        <span>·</span>
+        <a href="/a-propos/">À propos</a>
+        <span>·</span>
+        <a href="/contact/">Contact</a>
+      </div>
+    </div>
+    <nav class="main-nav" aria-label="Catégories">
+      {navItems.map((item) => {
+        const itemPath = item.href.replace(/\/$/, "");
+        const isActive =
+          currentPath === itemPath ||
+          currentPath.startsWith(itemPath + "/");
+        return (
+          <a href={item.href} class={isActive ? "active" : ""}>
+            {item.label}
+          </a>
+        );
+      })}
+    </nav>
+  </div>
+</header>

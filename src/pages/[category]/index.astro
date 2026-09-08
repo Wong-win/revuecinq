@@ -1,0 +1,74 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import ArticleCard from "../../components/ArticleCard.astro";
+import { getCollection } from "astro:content";
+
+export async function getStaticPaths() {
+  return [
+    { params: { category: "fashion" } },
+    { params: { category: "beauty" } },
+    { params: { category: "lifestyle" } },
+    { params: { category: "technology" } },
+  ];
+}
+
+const { category } = Astro.params;
+
+const categoryLabels: Record<string, { name: string; sub: string }> = {
+  fashion: {
+    name: "Mode",
+    sub: "Tendances, classiques revisités, et l'art de se composer un vestiaire qui dure.",
+  },
+  beauty: {
+    name: "Beauté",
+    sub: "Soin, parfum, gestuelle — une approche sensible et exigeante du soin de soi.",
+  },
+  lifestyle: {
+    name: "Lifestyle",
+    sub: "Maison, jardin, art de vivre — les rituels qui transforment l'ordinaire.",
+  },
+  technology: {
+    name: "Technologie",
+    sub: "Objets, plateformes et innovations qui redessinent nos usages quotidiens.",
+  },
+};
+
+const info = categoryLabels[category as string];
+const articles = (await getCollection("articles"))
+  .filter((a) => a.data.category === category)
+  .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
+---
+
+<BaseLayout
+  title={info.name}
+  description={info.sub}
+>
+  <section class="cat-hero-band">
+    <div class="container">
+      <h1>{info.name}</h1>
+      <p class="cat-sub">{info.sub}</p>
+    </div>
+  </section>
+
+  <div class="container">
+    {articles.length > 0 ? (
+      <div class="card-grid">
+        {articles.map((article) => (
+          <ArticleCard
+            href={`/${article.data.category}/${article.slug}/`}
+            title={article.data.title}
+            image={article.data.image}
+            imageAlt={article.data.imageAlt}
+            category={info.name}
+            date={article.data.date}
+            excerpt={article.data.excerpt}
+          />
+        ))}
+      </div>
+    ) : (
+      <p style="text-align: center; padding: 4rem 0; color: var(--color-muted);">
+        Aucun article dans cette catégorie pour l'instant.
+      </p>
+    )}
+  </div>
+</BaseLayout>

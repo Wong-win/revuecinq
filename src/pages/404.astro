@@ -1,0 +1,25 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+---
+
+<BaseLayout
+  title="Page introuvable"
+  description="La page que vous cherchez n'existe pas ou a été déplacée."
+>
+  <section class="page">
+    <div class="container-narrow" style="text-align: center; padding: 4rem 0;">
+      <p class="tag" style="margin-bottom: 1.5rem;">Erreur 404</p>
+      <h1 style="font-style: italic; font-weight: 400; font-size: clamp(2.4rem, 5vw, 3.6rem);">
+        Cette page s'est égarée.
+      </h1>
+      <p style="margin-top: 1.5rem; font-size: 1.1rem; color: var(--color-muted); max-width: 40ch; margin-left: auto; margin-right: auto;">
+        Le contenu que vous cherchez n'existe plus, ou n'a jamais existé.
+        Vous pouvez retourner à l'accueil ou parcourir nos catégories.
+      </p>
+      <div style="margin-top: 2.5rem; display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap;">
+        <a href="/" class="btn">Retour à l'accueil</a>
+        <a href="/articles/" class="btn btn-outline">Toutes les publications</a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

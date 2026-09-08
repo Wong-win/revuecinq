@@ -1,0 +1,65 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+import { marked } from "marked";
+
+export async function getStaticPaths() {
+  const articles = await getCollection("articles");
+  return articles.map((article) => ({
+    params: { category: article.data.category, slug: article.slug },
+    props: { article },
+  }));
+}
+
+const { article } = Astro.props;
+const { data } = article;
+const htmlContent = await marked.parse(article.body || "");
+
+const categoryLabels: Record<string, string> = {
+  fashion: "Mode",
+  beauty: "Beauté",
+  lifestyle: "Lifestyle",
+  technology: "Technologie",
+};
+
+const categoryName = categoryLabels[data.category] || data.category;
+
+const formattedDate = new Date(data.date).toLocaleDateString("fr-FR", {
+  year: "numeric",
+  month: "long",
+  day: "numeric",
+});
+---
+
+<BaseLayout
+  title={data.title}
+  description={data.excerpt || data.title}
+  image={data.image}
+  type="article"
+>
+  <article class="container-narrow article-page">
+    <header class="article-header">
+      <p class="article-category">
+        <a href={`/${data.category}/`}>{categoryName}</a>
+      </p>
+      <h1>{data.title}</h1>
+      {data.excerpt && <p class="article-dek">{data.excerpt}</p>}
+      <p class="article-meta">Publié le {formattedDate}</p>
+    </header>
+
+    {data.image && (
+      <img
+        src={data.image}
+        alt={data.imageAlt || data.title}
+        class="article-hero-img"
+      />
+    )}
+
+    <div class="article-body" set:html={htmlContent}></div>
+
+    <footer class="article-footer">
+      <a href={`/${data.category}/`}>← Tous les articles {categoryName}</a>
+      <a href="/articles/">Voir tous les articles</a>
+    </footer>
+  </article>
+</BaseLayout>

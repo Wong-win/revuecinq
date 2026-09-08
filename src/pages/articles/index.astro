@@ -1,0 +1,55 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getCollection } from "astro:content";
+
+const articles = (await getCollection("articles"))
+  .sort((a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime());
+
+const categoryLabels: Record<string, string> = {
+  fashion: "Mode",
+  beauty: "Beauté",
+  lifestyle: "Lifestyle",
+  technology: "Technologie",
+};
+---
+
+<BaseLayout
+  title="Tous les articles"
+  description="L'ensemble des publications de Revue Cinq — Mode, Beauté, Lifestyle et Technologie."
+>
+  <section class="cat-hero-band">
+    <div class="container">
+      <h1>Toutes les publications</h1>
+      <p class="cat-sub">
+        L'intégralité de nos articles, des plus récents aux plus anciens.
+      </p>
+    </div>
+  </section>
+
+  <div class="container">
+    <div class="article-list">
+      {articles.map((article) => {
+        const date = new Date(article.data.date).toLocaleDateString("fr-FR", {
+          day: "numeric",
+          month: "long",
+          year: "numeric",
+        });
+        return (
+          <a href={`/${article.data.category}/${article.slug}/`} class="row">
+            {article.data.image && (
+              <img src={article.data.image} alt={article.data.imageAlt || article.data.title} class="row-img" loading="lazy" />
+            )}
+            <div>
+              <span class="tag">{categoryLabels[article.data.category]}</span>
+              <h3>{article.data.title}</h3>
+              {article.data.excerpt && <p class="row-excerpt">{article.data.excerpt}</p>}
+            </div>
+            <div class="row-meta">
+              <div>{date}</div>
+            </div>
+          </a>
+        );
+      })}
+    </div>
+  </div>
+</BaseLayout>

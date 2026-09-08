@@ -1,0 +1,143 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import ArticleCard from "../components/ArticleCard.astro";
+import { getCollection } from "astro:content";
+
+const articles = (await getCollection("articles")).sort(
+  (a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
+);
+
+const categoryLabels: Record<string, string> = {
+  fashion: "Mode",
+  beauty: "Beauté",
+  lifestyle: "Lifestyle",
+  technology: "Technologie",
+};
+
+const [hero, ...rest] = articles;
+const side = rest.slice(0, 2);
+const grid = rest.slice(2, 8);
+
+const byCategory = {
+  fashion: articles.filter((a) => a.data.category === "fashion").slice(0, 4),
+  beauty: articles.filter((a) => a.data.category === "beauty").slice(0, 4),
+  lifestyle: articles.filter((a) => a.data.category === "lifestyle").slice(0, 4),
+  technology: articles.filter((a) => a.data.category === "technology").slice(0, 4),
+};
+---
+
+<BaseLayout
+  title="Le magazine lifestyle français"
+  description="Revue Cinq — Mode, Beauté, Lifestyle et Technologie. Un regard français exigeant sur l'art de vivre contemporain."
+>
+  <!-- Hero — The Verge 60/40 inspired, refined editorial -->
+  {hero && (
+    <section class="hero">
+      <a href={`/${hero.data.category}/${hero.slug}/`} class="hero-main">
+        {hero.data.image && (
+          <img src={hero.data.image} alt={hero.data.imageAlt || hero.data.title} class="hero-img" />
+        )}
+        <div class="hero-overlay">
+          <span class="tag">{categoryLabels[hero.data.category]}</span>
+          <h1>{hero.data.title}</h1>
+          {hero.data.excerpt && <p class="dek">{hero.data.excerpt}</p>}
+        </div>
+      </a>
+      <div class="hero-side">
+        {side.map((article) => (
+          <a href={`/${article.data.category}/${article.slug}/`} class="side-item">
+            {article.data.image && (
+              <img src={article.data.image} alt={article.data.imageAlt || article.data.title} class="side-img" loading="lazy" />
+            )}
+            <span class="tag">{categoryLabels[article.data.category]}</span>
+            <h3>{article.data.title}</h3>
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
+
+  <!-- Recent grid -->
+  {grid.length > 0 && (
+    <div class="container">
+      <div class="section-head">
+        <h2>Dernières publications</h2>
+        <a href="/articles/">Toutes les publications →</a>
+      </div>
+      <div class="card-grid">
+        {grid.map((article) => (
+          <ArticleCard
+            href={`/${article.data.category}/${article.slug}/`}
+            title={article.data.title}
+            image={article.data.image}
+            imageAlt={article.data.imageAlt}
+            category={categoryLabels[article.data.category]}
+            date={article.data.date}
+            excerpt={article.data.excerpt}
+          />
+        ))}
+      </div>
+    </div>
+  )}
+
+  <!-- Category bands: 1 hero + 3 small per category -->
+  {Object.entries(byCategory).map(([cat, list]) => (
+    list.length > 0 && (
+      <div class="container">
+        <div class="section-head">
+          <h2>{categoryLabels[cat]}</h2>
+          <a href={`/${cat}/`}>Tout voir →</a>
+        </div>
+        <div class="cat-band">
+          {list[0] && (
+            <a href={`/${list[0].data.category}/${list[0].slug}/`} class="cat-hero">
+              <ArticleCard
+                href={`/${list[0].data.category}/${list[0].slug}/`}
+                title={list[0].data.title}
+                image={list[0].data.image}
+                imageAlt={list[0].data.imageAlt}
+                category={categoryLabels[list[0].data.category]}
+                date={list[0].data.date}
+                excerpt={list[0].data.excerpt}
+              />
+            </a>
+          )}
+          {list.slice(1, 4).map((article) => (
+            <ArticleCard
+              href={`/${article.data.category}/${article.slug}/`}
+              title={article.data.title}
+              image={article.data.image}
+              imageAlt={article.data.imageAlt}
+              category={categoryLabels[article.data.category]}
+              date={article.data.date}
+            />
+          ))}
+        </div>
+      </div>
+    )
+  ))}
+
+  <!-- Trust band -->
+  <section class="trust-band">
+    <div class="container">
+      <div class="trust-grid">
+        <div class="trust-item">
+          <h3>4</h3>
+          <p>Univers éditoriaux</p>
+        </div>
+        <div class="trust-item">
+          <h3>{articles.length}</h3>
+          <p>Articles publiés</p>
+        </div>
+        <div class="trust-item">
+          <h3>100%</h3>
+          <p>Sélection française</p>
+        </div>
+        <div class="trust-item">
+          <h3>—</h3>
+          <p>Écrit à Paris</p>
+        </div>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

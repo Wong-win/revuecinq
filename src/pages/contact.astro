@@ -1,0 +1,74 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+---
+
+<BaseLayout
+  title="Contact"
+  description="Écrivez à la rédaction de Revue Cinq — nous lisons tout et répondons toujours."
+>
+  <section class="page">
+    <div class="container">
+      <header class="page-header">
+        <h1>Contact</h1>
+        <p class="page-sub">Écrivez-nous, nous lisons tout.</p>
+      </header>
+
+      <div class="page-body">
+        <p>
+          Pour toute question, suggestion, ou signalement, vous pouvez nous
+          écrire directement. Nous répondons généralement sous 48 heures
+          ouvrées.
+        </p>
+
+        <h2>Par email</h2>
+        <p>
+          <strong>Rédaction et sujets d'article :</strong>
+          <a href="mailto:redaction@revuecinq.com">redaction@revuecinq.com</a>
+        </p>
+        <p>
+          <strong>Partenariats et collaborations :</strong>
+          <a href="mailto:partenariats@revuecinq.com">partenariats@revuecinq.com</a>
+        </p>
+        <p>
+          <strong>Questions générales :</strong>
+          <a href="mailto:contact@revuecinq.com">contact@revuecinq.com</a>
+        </p>
+
+        <h2>Formulaire de contact</h2>
+
+        <form
+          class="contact-form"
+          action="mailto:contact@revuecinq.com"
+          method="post"
+          enctype="text/plain"
+        >
+          <div>
+            <label for="name">Votre nom</label>
+            <input type="text" id="name" name="name" required />
+          </div>
+          <div>
+            <label for="email">Votre email</label>
+            <input type="email" id="email" name="email" required />
+          </div>
+          <div>
+            <label for="subject">Sujet</label>
+            <select id="subject" name="subject" required>
+              <option value="">Choisir un sujet</option>
+              <option value="suggestion">Suggestion d'article</option>
+              <option value="correction">Correction d'un article</option>
+              <option value="partenariat">Proposition de partenariat</option>
+              <option value="autre">Autre</option>
+            </select>
+          </div>
+          <div>
+            <label for="message">Votre message</label>
+            <textarea id="message" name="message" required></textarea>
+          </div>
+          <div>
+            <button type="submit" class="btn">Envoyer le message</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

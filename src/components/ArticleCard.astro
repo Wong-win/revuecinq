@@ -1,0 +1,49 @@
+---
+export interface Props {
+  href: string;
+  title: string;
+  image?: string;
+  imageAlt?: string;
+  category?: string;
+  date?: string;
+  excerpt?: string;
+  size?: "default" | "hero" | "feature";
+}
+
+const {
+  href,
+  title,
+  image,
+  imageAlt = "",
+  category,
+  date,
+  excerpt,
+  size = "default",
+} = Astro.props;
+
+const formattedDate = date
+  ? new Date(date).toLocaleDateString("fr-FR", {
+      day: "numeric",
+      month: "short",
+      year: "numeric",
+    })
+  : null;
+
+const sizeClass = size === "hero" ? "card-hero" : size === "feature" ? "card-feature" : "";
+---
+
+<article class={`card ${sizeClass}`}>
+  {image && (
+    <a href={href} aria-label={title}>
+      <img src={image} alt={imageAlt || title} class="card-img" loading="lazy" />
+    </a>
+  )}
+  <div>
+    {category && <span class="tag">{category}</span>}
+    <h3>
+      <a href={href}>{title}</a>
+    </h3>
+    {excerpt && <p class="card-excerpt">{excerpt}</p>}
+    {formattedDate && <p class="card-meta">{formattedDate}</p>}
+  </div>
+</article>
