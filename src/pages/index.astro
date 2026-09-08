@@ -17,12 +17,13 @@ const categoryLabels: Record<string, string> = {
 const [hero, ...rest] = articles;
 const side = rest.slice(0, 2);
 const grid = rest.slice(2, 8);
+const bottomPool = rest.slice(8);
 
 const byCategory = {
-  fashion: articles.filter((a) => a.data.category === "fashion").slice(0, 6),
-  beauty: articles.filter((a) => a.data.category === "beauty").slice(0, 6),
-  lifestyle: articles.filter((a) => a.data.category === "lifestyle").slice(0, 6),
-  technology: articles.filter((a) => a.data.category === "technology").slice(0, 6),
+  fashion: bottomPool.filter((a) => a.data.category === "fashion").slice(0, 6),
+  beauty: bottomPool.filter((a) => a.data.category === "beauty").slice(0, 6),
+  lifestyle: bottomPool.filter((a) => a.data.category === "lifestyle").slice(0, 6),
+  technology: bottomPool.filter((a) => a.data.category === "technology").slice(0, 6),
 };
 ---
 
