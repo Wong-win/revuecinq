@@ -1,6 +1,6 @@
 ---
 title: "Le café à la maison : espresso, filtre, french press — comment choisir"
-date: "2026-09-08"
+date: "2026-09-06"
 category: "lifestyle"
 excerpt: "Trois méthodes, trois philosophies du café domestique — et les quelques gestes qui transforment une tasse ordinaire en vrai moment de plaisir."
 image: "https://images.unsplash.com/photo-1559001724-fbad036dbc9e?auto=format&fit=crop&w=1800&q=82"

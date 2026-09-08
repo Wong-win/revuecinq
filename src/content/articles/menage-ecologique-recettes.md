@@ -1,6 +1,6 @@
 ---
 title: "Le ménage écologique : les recettes simples qui marchent vraiment"
-date: "2026-09-08"
+date: "2026-08-11"
 category: "lifestyle"
 excerpt: "Vinaigre blanc, bicarbonate, savon noir : ce qui marche, ce qui ne marche pas, et comment faire le ménage sans polluer — ni se ruiner."
 image: "https://images.unsplash.com/photo-1602574923828-853dbbc27277?auto=format&fit=crop&w=1800&q=82"

@@ -1,6 +1,6 @@
 ---
 title: "Le maquillage naturel qui prend cinq minutes"
-date: "2026-08-30"
+date: "2026-06-27"
 category: "beauty"
 excerpt: "Cinq produits, cinq minutes — un teint qui ressemble à de la peau, et non à un fond de teint."
 image: "https://images.unsplash.com/photo-1556228578-8c89e6adf883?auto=format&fit=crop&w=1800&q=82"

@@ -1,6 +1,6 @@
 ---
 title: "L'éclairage de la maison : comment composer avec trois sources"
-date: "2026-09-08"
+date: "2026-08-22"
 category: "lifestyle"
 excerpt: "Un plafonnier seul ne suffit pas. La règle des trois sources — ambiante, fonctionnelle, d'accent — transforme une pièce sans la rénover."
 image: "https://images.unsplash.com/photo-1639906512494-dd4a536abc4e?auto=format&fit=crop&w=1800&q=82"

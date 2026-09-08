@@ -1,6 +1,6 @@
 ---
 title: "Photographie mobile : ce qui a changé, et ce qui n'a pas changé"
-date: "2026-09-02"
+date: "2026-06-30"
 category: "technology"
 excerpt: "Les smartphones de 2026 produisent des images impossibles à distinguer d'un reflex — sauf dans un cas précis, qu'aucune IA ne pourra jamais corriger."
 image: "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?auto=format&fit=crop&w=1800&q=82"

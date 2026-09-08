@@ -1,6 +1,6 @@
 ---
 title: "Le soin des lèvres : la routine pour des lèvres qui ne craquèlent plus"
-date: "2026-09-08"
+date: "2026-07-17"
 category: "beauty"
 excerpt: "Les lèvres s'abîment vite, se réparent lentement, et méritent mieux qu'un baume appliqué au hasard. Voici la routine précise pour des lèvres souples, hydratées, et protégées toute l'année."
 image: "https://images.unsplash.com/photo-1610824352934-c10d87b700cc?auto=format&fit=crop&w=1800&q=82"

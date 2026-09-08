@@ -1,6 +1,6 @@
 ---
 title: "Les applications de productivité : celles qui valent la peine en 2026"
-date: "2026-09-08"
+date: "2026-08-02"
 category: "technology"
 excerpt: "Prise de notes, gestion de tâches, calendrier : les bons outils de productivité changent une journée de travail. Voici comment construire sa stack en 2026."
 image: "https://images.unsplash.com/photo-1543285198-3af15c4592ce?auto=format&fit=crop&w=1800&q=82"

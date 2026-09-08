@@ -1,6 +1,6 @@
 ---
 title: "La salle de bains comme un spa : rituels et produits"
-date: "2026-09-08"
+date: "2026-07-25"
 category: "lifestyle"
 excerpt: "Une baignoire, quelques gestes, des produits choisis — transformer sa salle de bains en sanctuaire quotidien ne demande pas de rénovation."
 image: "https://images.unsplash.com/photo-1620626011761-996317b8d101?auto=format&fit=crop&w=1800&q=82"

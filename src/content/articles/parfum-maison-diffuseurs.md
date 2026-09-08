@@ -1,6 +1,6 @@
 ---
 title: "Parfumer sa maison : bougies, diffuseurs, brumisateurs — sans tomber dans le piège"
-date: "2026-09-08"
+date: "2026-08-06"
 category: "lifestyle"
 excerpt: "Bougies de luxe, diffuseurs naturels, brumisateurs artisanaux : composer un intérieur qui sent bon, sans saturer l'air ni se ruiner."
 image: "https://images.unsplash.com/photo-1730597363352-0a8fe6eb5d12?auto=format&fit=crop&w=1800&q=82"

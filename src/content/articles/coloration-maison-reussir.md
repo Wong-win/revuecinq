@@ -1,6 +1,6 @@
 ---
 title: "La coloration à la maison : réussir sa couleur sans catastrophe"
-date: "2026-09-08"
+date: "2026-08-28"
 category: "beauty"
 excerpt: "Se colorer les cheveux chez soi, c'est possible — à condition de choisir la bonne nuance, de préparer sa chevelure, et de respecter le temps de pose. Le guide précis pour éviter le orange ou le vert."
 image: "https://images.unsplash.com/photo-1591019479261-1a103585c559?auto=format&fit=crop&w=1800&q=82"

@@ -1,6 +1,6 @@
 ---
 title: "Le clavier mécanique : le guide pour bien choisir"
-date: "2026-09-08"
+date: "2026-08-31"
 category: "technology"
 excerpt: "Switches, keycaps, layouts : le clavier mécanique n'est pas qu'un gadget de passionné. Voici comment choisir celui qui vous convient."
 image: "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=1800&q=82"

@@ -1,6 +1,6 @@
 ---
 title: "Le parfum : comment choisir sa signature"
-date: "2026-08-18"
+date: "2026-06-17"
 category: "beauty"
 excerpt: "Un parfum est un vêtement invisible. Le choisir n'est pas anodin — c'est adopter une signature qui vous précède partout."
 image: "https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&w=1800&q=82"

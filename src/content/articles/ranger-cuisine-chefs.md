@@ -1,6 +1,6 @@
 ---
 title: "Bien ranger sa cuisine : la méthode des chefs"
-date: "2026-09-08"
+date: "2026-07-29"
 category: "lifestyle"
 excerpt: "Les cuisines de restaurant obéissent à une logique précise — qui s'applique parfaitement à la maison. Zones, triangle de travail, rangements verticaux : les règles d'or."
 image: "https://images.unsplash.com/photo-1515948725-edac7b5bb0fc?auto=format&fit=crop&w=1800&q=82"

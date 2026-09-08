@@ -1,6 +1,6 @@
 ---
 title: "Les chaussures qui vieillissent bien : derbies, mocassins, bottines classiques"
-date: "2026-09-08"
+date: "2026-09-02"
 category: "fashion"
 excerpt: "Cuir pleine fleur, semelle cousue, entretien régulier : les bottines, derbies et mocassins qui durent vingt ans et qui se patinent avec le temps."
 image: "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=1800&q=82"

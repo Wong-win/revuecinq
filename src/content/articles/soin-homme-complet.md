@@ -1,6 +1,6 @@
 ---
 title: "Le soin pour homme : la routine complète, du rasage à la peau"
-date: "2026-09-08"
+date: "2026-07-19"
 category: "beauty"
 excerpt: "Le grooming masculin n'est ni compliqué ni accessoires : trois gestes, une lame bien choisie, une barbe entretenue. Voici la routine qui tient, du matin au soir."
 image: "https://images.unsplash.com/photo-1583241475880-083f84372725?auto=format&fit=crop&w=1800&q=82"

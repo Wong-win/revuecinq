@@ -1,6 +1,6 @@
 ---
 title: "Le coin lecture à la maison : créer un espace qui invite à lire"
-date: "2026-09-08"
+date: "2026-08-30"
 category: "lifestyle"
 excerpt: "Un fauteuil, une lumière bien posée, le silence autour — l'art du coin lecture tient à peu de choses, mais à des choses précises."
 image: "https://images.unsplash.com/photo-1495640452828-3df6795cf69b?auto=format&fit=crop&w=1800&q=82"

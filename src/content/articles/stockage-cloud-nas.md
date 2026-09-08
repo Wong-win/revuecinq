@@ -1,6 +1,6 @@
 ---
 title: "Stocker ses données : cloud, NAS, sauvegarde 3-2-1"
-date: "2026-09-08"
+date: "2026-07-15"
 category: "technology"
 excerpt: "Entre cloud, disque externe et NAS Synology, comment protéger ses données en 2026. La règle du 3-2-1 n'a pas pris une ride."
 image: "https://images.unsplash.com/photo-1597852074816-d933c7d2b988?auto=format&fit=crop&w=1800&q=82"

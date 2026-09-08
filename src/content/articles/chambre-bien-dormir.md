@@ -1,6 +1,6 @@
 ---
 title: "La chambre pour bien dormir : literie, lumière, température, calme"
-date: "2026-09-08"
+date: "2026-09-03"
 category: "lifestyle"
 excerpt: "Dormir n'est pas un hasard : la literie, l'obscurité, la fraîcheur et le silence se composent — une chambre bien pensée change la qualité des nuits."
 image: "https://images.unsplash.com/photo-1703782498522-f9c2b9c1bc25?auto=format&fit=crop&w=1800&q=82"

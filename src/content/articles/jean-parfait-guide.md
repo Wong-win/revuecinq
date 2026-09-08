@@ -1,6 +1,6 @@
 ---
 title: "Le jean parfait : guide d'achat pour ne plus jamais se tromper"
-date: "2026-08-28"
+date: "2026-06-24"
 category: "fashion"
 excerpt: "Brut, slim, droit, large, délavé : comment choisir un jean qui vous va vraiment, et qui durera cinq ans sans bouger."
 image: "https://images.unsplash.com/photo-1542272604-787c3835535d?auto=format&fit=crop&w=1800&q=82"

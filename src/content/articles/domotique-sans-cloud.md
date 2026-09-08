@@ -1,6 +1,6 @@
 ---
 title: "La domotique sans cloud : préserver sa vie privée à la maison"
-date: "2026-08-02"
+date: "2026-06-10"
 category: "technology"
 excerpt: "Ampoules, thermostats, caméras : comment construire une maison connectée qui ne dépend d'aucun serveur externe, et qui respecte vraiment votre vie privée."
 image: "https://images.unsplash.com/photo-1593642634443-44adaa06623a?auto=format&fit=crop&w=1800&q=82"

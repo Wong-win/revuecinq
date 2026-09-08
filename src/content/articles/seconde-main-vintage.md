@@ -1,6 +1,6 @@
 ---
 title: "Seconde main : le guide pour acheter vintage sans se tromper"
-date: "2026-09-08"
+date: "2026-07-23"
 category: "fashion"
 excerpt: "Friperies, Vinted, dépôts-vente : comment évaluer la qualité, repérer les pièces rares, et constituer une garde-robe durable."
 image: "https://images.unsplash.com/photo-1605518216938-7c31b7b14ad0?auto=format&fit=crop&w=1800&q=82"

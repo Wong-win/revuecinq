@@ -1,6 +1,6 @@
 ---
 title: "Les ustensiles de cuisine qui valent l'investissement"
-date: "2026-09-08"
+date: "2026-08-23"
 category: "lifestyle"
 excerpt: "Un bon couteau, une sauteuse en cuivre, une cocotte en fonte : les ustensiles qui changent la cuisine sans la compliquer."
 image: "https://images.unsplash.com/photo-1583907659441-addbe699e921?auto=format&fit=crop&w=1800&q=82"

@@ -1,6 +1,6 @@
 ---
 title: "Le rituel de soin minimaliste : trois gestes, deux fois par jour"
-date: "2026-09-07"
+date: "2026-07-06"
 category: "beauty"
 excerpt: "Une routine qui prend moins de cinq minutes, qui produit de vrais résultats sur la durée — et qui ne nécessite que cinq produits."
 image: "https://images.unsplash.com/photo-1591348278863-a8fb3887e2aa?auto=format&fit=crop&w=1800&q=82"

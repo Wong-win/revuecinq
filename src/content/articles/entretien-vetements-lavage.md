@@ -1,6 +1,6 @@
 ---
 title: "L'entretien des vêtements : lavage, séchage, rangement — pour qu'ils durent"
-date: "2026-09-08"
+date: "2026-08-20"
 category: "fashion"
 excerpt: "Cycle laine, lessive sans enzyme, cèdre, mites, retouches : la méthode française pour faire vivre un vêtement vingt ans plutôt que deux saisons."
 image: "https://images.unsplash.com/photo-1610557892470-55d9e80c0bce?auto=format&fit=crop&w=1800&q=82"

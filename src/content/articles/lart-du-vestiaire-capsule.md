@@ -1,6 +1,6 @@
 ---
 title: "L'art du vestiaire capsule : moins, mais mieux"
-date: "2026-09-08"
+date: "2026-08-17"
 category: "fashion"
 excerpt: "Construire un dressing qui dure dix ans plutôt que dix saisons — les principes d'un vestiaire pensé comme une garde-robe d'architecte."
 image: "https://images.unsplash.com/photo-1567401893414-76b7b1e5a7a5?auto=format&fit=crop&w=1800&q=82"

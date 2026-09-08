@@ -1,6 +1,6 @@
 ---
 title: "Optimiser son setup de télétravail : le matériel, l'ergonomie, l'environnement"
-date: "2026-07-30"
+date: "2026-06-08"
 category: "technology"
 excerpt: "Un bon setup de télétravail n'est pas un luxe — c'est une santé. Voici comment construire un espace de travail à domicile qui dure huit heures par jour, cinq jours par semaine."
 image: "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?auto=format&fit=crop&w=1800&q=82"

@@ -1,6 +1,6 @@
 ---
 title: "Lunettes de soleil : le guide pour investir dans une paire qui dure"
-date: "2026-09-08"
+date: "2026-08-14"
 category: "fashion"
 excerpt: "Acétate, métal, verres minéraux, marques françaises : les critères qui séparent une paire qu'on garde dix ans d'une paire qu'on jette après un été."
 image: "https://images.unsplash.com/photo-1577803645773-f96470509666?auto=format&fit=crop&w=1800&q=82"

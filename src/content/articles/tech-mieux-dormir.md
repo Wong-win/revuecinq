@@ -1,6 +1,6 @@
 ---
 title: "Mieux dormir avec la tech : traqueurs, lumières, applications"
-date: "2026-09-08"
+date: "2026-07-14"
 category: "technology"
 excerpt: "Entre les montres qui analysent nos nuits et les ampoules qui recréent le coucher du soleil, la tech peut réellement améliorer notre sommeil — à condition de ne pas en abuser."
 image: "https://images.unsplash.com/photo-1601391721091-4646369e0bb5?auto=format&fit=crop&w=1800&q=82"

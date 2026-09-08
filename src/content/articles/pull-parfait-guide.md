@@ -1,6 +1,6 @@
 ---
 title: "Le pull parfait : guide d'achat pour ne plus se tromper"
-date: "2026-09-08"
+date: "2026-07-31"
 category: "fashion"
 excerpt: "Cachemire, laine, coton ou mélange : comment choisir un pull qui durera dix ans, et ce qu'il faut éviter en rayon."
 image: "https://images.unsplash.com/photo-1551803091-e20673f15770?auto=format&fit=crop&w=1800&q=82"

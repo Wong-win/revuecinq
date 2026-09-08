@@ -1,6 +1,6 @@
 ---
 title: "Le potager d'intérieur : faire pousser des herbes et des légumes toute l'année"
-date: "2026-08-12"
+date: "2026-06-14"
 category: "lifestyle"
 excerpt: "Pas besoin de balcon ni de jardin : avec les bons équipements, on fait pousser basilic, salades et tomates cerises sur un rebord de fenêtre."
 image: "https://images.unsplash.com/photo-1542838132-92c53300491e?auto=format&fit=crop&w=1800&q=82"

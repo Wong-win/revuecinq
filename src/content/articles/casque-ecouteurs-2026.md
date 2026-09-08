@@ -1,6 +1,6 @@
 ---
 title: "Bien choisir ses écouteurs ou son casque : le guide audio 2026"
-date: "2026-09-08"
+date: "2026-09-05"
 category: "technology"
 excerpt: "Entre casques, écouteurs, ANC et codecs sans fil, l'audio personnel n'a jamais été aussi bon. Voici comment s'y retrouver sans se ruiner."
 image: "https://images.unsplash.com/photo-1613040809024-b4ef7ba99bc3?auto=format&fit=crop&w=1800&q=82"

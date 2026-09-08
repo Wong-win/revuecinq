@@ -1,6 +1,6 @@
 ---
 title: "Soin des peaux matures : routines après cinquante ans"
-date: "2026-09-08"
+date: "2026-08-03"
 category: "beauty"
 excerpt: "Après cinquante ans, la peau change en profondeur. Ce qu'il faut savoir sur les hormones, la densité, et les actifs qui font encore la différence — sans se laisser tenter par la chirurgie."
 image: "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1800&q=82"

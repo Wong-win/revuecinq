@@ -1,6 +1,6 @@
 ---
 title: "La montre connectée : laquelle pour quel usage"
-date: "2026-09-08"
+date: "2026-08-09"
 category: "technology"
 excerpt: "Apple Watch, Garmin, Pixel Watch, Withings : la montre connectée n'est plus un gadget. Voici comment choisir la bonne, selon son poignet et sa pratique."
 image: "https://images.unsplash.com/photo-1617043786394-f977fa12eddf?auto=format&fit=crop&w=1800&q=82"

@@ -1,6 +1,6 @@
 ---
 title: "Jardin urbain : ce qu'on peut faire pousser sur trois mètres carrés"
-date: "2026-08-25"
+date: "2026-06-22"
 category: "lifestyle"
 excerpt: "Un balcon, une terrasse, ou même un rebord de fenêtre peut devenir un vrai jardin. Voici ce qui pousse vraiment en ville."
 image: "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?auto=format&fit=crop&w=1800&q=82"

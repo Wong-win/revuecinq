@@ -1,6 +1,6 @@
 ---
 title: "Tendances automne 2026 : ce qui reste, ce qui passe"
-date: "2026-09-05"
+date: "2026-07-03"
 category: "fashion"
 excerpt: "Une saison qui mise sur la matière plutôt que sur l'effet — velours côtelé, tons terre, et retour du tailoring féminin."
 image: "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?auto=format&fit=crop&w=1800&q=82"

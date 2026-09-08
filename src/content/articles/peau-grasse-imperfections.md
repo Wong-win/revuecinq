@@ -1,6 +1,6 @@
 ---
 title: "Peau grasse et imperfections : comprendre, traiter, accepter"
-date: "2026-09-08"
+date: "2026-08-05"
 category: "beauty"
 excerpt: "La peau grasse n'est ni une maladie ni une malédiction. C'est un type de peau, qui réagit à des causes précises, et qui se traite avec des actifs identifiés — sans avoir à se détester."
 image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?auto=format&fit=crop&w=1800&q=82"

@@ -1,6 +1,6 @@
 ---
 title: "Bien choisir son prochain smartphone : le guide pour ne pas se tromper"
-date: "2026-08-05"
+date: "2026-06-11"
 category: "technology"
 excerpt: "Entre 400€ et 1500€, le bon smartphone existe. Voici comment choisir celui qui vous correspond, sans payer pour des fonctions que vous n'utiliserez jamais."
 image: "https://images.unsplash.com/photo-1512054502232-10a0a035d672?auto=format&fit=crop&w=1800&q=82"

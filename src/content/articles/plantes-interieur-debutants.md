@@ -1,6 +1,6 @@
 ---
 title: "Sept plantes d'intérieur pour ceux qui n'ont pas la main verte"
-date: "2026-09-06"
+date: "2026-07-05"
 category: "lifestyle"
 excerpt: "Des plantes qui pardonnent l'oubli d'arrosage, le manque de lumière, et l'inexpérience — la sélection pour débuter sans frustration."
 image: "https://images.unsplash.com/photo-1459411552884-841db9b3cc2a?auto=format&fit=crop&w=1800&q=82"

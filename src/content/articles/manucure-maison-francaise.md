@@ -1,6 +1,6 @@
 ---
 title: "Manucure à la maison : la méthode française pas à pas"
-date: "2026-09-08"
+date: "2026-08-12"
 category: "beauty"
 excerpt: "Une manucure française à la maison, propre, durable, et presque professionnelle — en sept étapes, sans lampe UV ni diplôme d'esthéticienne."
 image: "https://images.unsplash.com/photo-1604654894610-df63bc536371?auto=format&fit=crop&w=1800&q=82"

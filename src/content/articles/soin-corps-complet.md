@@ -1,6 +1,6 @@
 ---
 title: "Le soin du corps : la routine complète pour peaux sèches ou réactives"
-date: "2026-09-08"
+date: "2026-07-20"
 category: "beauty"
 excerpt: "Le corps mérite la même attention que le visage. Une routine en cinq gestes, pensée pour les peaux sèches, atopiques ou qui tiraillent au sortir de la douche."
 image: "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?auto=format&fit=crop&w=1800&q=82"

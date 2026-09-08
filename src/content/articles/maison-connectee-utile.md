@@ -1,6 +1,6 @@
 ---
 title: "Maison connectée : les objets qui simplifient vraiment la vie"
-date: "2026-09-04"
+date: "2026-07-01"
 category: "technology"
 excerpt: "Ampoules, thermostats, caméras, serrures — la sélection des objets connectés qui apportent une vraie valeur, et ceux dont on peut se passer."
 image: "https://images.unsplash.com/photo-1565538810643-b5bdb714032a?auto=format&fit=crop&w=1800&q=82"

@@ -1,6 +1,6 @@
 ---
 title: "L'IA au quotidien : les outils qui changent vraiment la donne"
-date: "2026-09-08"
+date: "2026-08-19"
 category: "technology"
 excerpt: "ChatGPT, Claude, Gemini, Mistral, Le Chat : l'IA générative est devenue un outil de travail. Voici comment s'en servir sans se perdre dans le hype."
 image: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?auto=format&fit=crop&w=1800&q=82"

@@ -1,6 +1,6 @@
 ---
 title: "Le vin à la maison : comprendre, choisir, conserver, servir"
-date: "2026-09-08"
+date: "2026-07-08"
 category: "lifestyle"
 excerpt: "Du caviste à la table : ce qu'il faut savoir pour acheter, garder et servir le vin sans se prendre la tête — avec ou sans pedigree."
 image: "https://images.unsplash.com/photo-1636714507452-48716cfa1818?auto=format&fit=crop&w=1800&q=82"

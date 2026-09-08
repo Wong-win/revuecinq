@@ -1,6 +1,6 @@
 ---
 title: "Maroquinerie : investir dans un sac qui dure dix ans"
-date: "2026-09-08"
+date: "2026-07-26"
 category: "fashion"
 excerpt: "Cuir, structure, quincaillerie, marques : les quatre critères qui séparent un sac à garder d'un sac à regretter."
 image: "https://images.unsplash.com/photo-1591561954557-26941169b49e?auto=format&fit=crop&w=1800&q=82"

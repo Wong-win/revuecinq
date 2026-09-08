@@ -1,6 +1,6 @@
 ---
 title: "Les actifs anti-âge qui marchent vraiment (et ceux qui ne marchent pas)"
-date: "2026-08-22"
+date: "2026-06-19"
 category: "beauty"
 excerpt: "Sur les milliers d'actifs cosmétiques vantés par l'industrie, une poignée a vraiment fait ses preuves. Voici lesquels, et pourquoi."
 image: "https://images.unsplash.com/photo-1556228720-195a672e8a03?auto=format&fit=crop&w=1800&q=82"

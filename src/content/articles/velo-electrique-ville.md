@@ -1,6 +1,6 @@
 ---
 title: "Le vélo électrique en ville : guide d'achat et bons réflexes"
-date: "2026-09-08"
+date: "2026-07-11"
 category: "technology"
 excerpt: "Le vélo à assistance électrique a bouleversé la mobilité urbaine. Voici comment choisir le bon modèle, l'entretenir, et rouler en sécurité dans les rues françaises."
 image: "https://images.unsplash.com/photo-1609895314390-cb64c186466a?auto=format&fit=crop&w=1800&q=82"

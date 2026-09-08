@@ -1,6 +1,6 @@
 ---
 title: "Le trench : histoire, coupes, comment le choisir"
-date: "2026-09-08"
+date: "2026-07-12"
 category: "fashion"
 excerpt: "Du beige classique au kaki militaire, comment choisir un trench qui durera vingt ans et qui vous ira vraiment."
 image: "https://images.unsplash.com/photo-1548883354-94bcfe321cbb?auto=format&fit=crop&w=1800&q=82"

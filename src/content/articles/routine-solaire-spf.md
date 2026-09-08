@@ -1,6 +1,6 @@
 ---
 title: "La routine solaire : bien choisir et appliquer son écran solaire"
-date: "2026-09-08"
+date: "2026-07-28"
 category: "beauty"
 excerpt: "Le geste anti-âge le plus efficace et le moins cher. Mais pas n'importe lequel, pas n'importe comment — un guide précis pour enfin comprendre SPF, PA et la réapplication."
 image: "https://images.unsplash.com/photo-1532413992378-f169ac26fff0?auto=format&fit=crop&w=1800&q=82"

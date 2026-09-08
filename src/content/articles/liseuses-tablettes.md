@@ -1,6 +1,6 @@
 ---
 title: "Les liseuses et tablettes : pour qui, pour quoi"
-date: "2026-09-08"
+date: "2026-08-16"
 category: "technology"
 excerpt: "Liseuse ou tablette : la question revient à chaque Noël. Voici comment trancher en fonction de l'usage réel, pas des fiches techniques."
 image: "https://images.unsplash.com/photo-1531353826977-0941b4779a1c?auto=format&fit=crop&w=1800&q=82"

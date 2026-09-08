@@ -1,6 +1,6 @@
 ---
 title: "Le contour des yeux : ce qui marche vraiment"
-date: "2026-09-08"
+date: "2026-08-27"
 category: "beauty"
 excerpt: "Rides, cernes, poches : ce que la science confirme, ce que le marketing invente, et la routine minimaliste qui marche pour le contour des yeux."
 image: "https://images.unsplash.com/photo-1571645163064-77faa9676a46?auto=format&fit=crop&w=1800&q=82"

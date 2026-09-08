@@ -1,6 +1,6 @@
 ---
 title: "Les essentiels du vestiaire masculin : dix pièces pour dix ans"
-date: "2026-09-08"
+date: "2026-07-09"
 category: "fashion"
 excerpt: "Costume, oxford, jean brut, mocassin, montre : la garde-robe masculine réduite à dix pièces qui suffisent vraiment."
 image: "https://images.unsplash.com/photo-1490114538077-0a7f8cb49891?auto=format&fit=crop&w=1800&q=82"

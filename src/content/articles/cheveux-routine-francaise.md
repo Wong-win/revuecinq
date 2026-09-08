@@ -1,6 +1,6 @@
 ---
 title: "Cheveux : la routine des françaises pour des cheveux qui vivent"
-date: "2026-08-15"
+date: "2026-06-16"
 category: "beauty"
 excerpt: "Les cheveux français ont mauvaise réputation à l'étranger — fins, indisciplinés, électriques. C'est faux : avec la bonne routine, ils sont magnifiques."
 image: "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=1800&q=82"

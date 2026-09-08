@@ -1,6 +1,6 @@
 ---
 title: "Le parfum pour homme : comment choisir sa signature"
-date: "2026-09-08"
+date: "2026-08-08"
 category: "beauty"
 excerpt: "Un parfum n'est pas un produit, c'est une présence. Le choisir exige de comprendre les familles olfactives, la pyramide, la tenue, et surtout ce qu'on veut laisser aux autres."
 image: "https://images.unsplash.com/photo-1604881991720-f91add269bed?auto=format&fit=crop&w=1800&q=82"

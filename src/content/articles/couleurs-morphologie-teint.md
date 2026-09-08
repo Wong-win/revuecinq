@@ -1,6 +1,6 @@
 ---
 title: "Trouver ses couleurs : la méthode pour ne plus se tromper en cabine"
-date: "2026-09-08"
+date: "2026-08-25"
 category: "fashion"
 excerpt: "Printemps, été, automne, hiver : la méthode française de colorimétrie pour construire une garde-robe qui vous éclaire le visage plutôt que de l'effacer."
 image: "https://images.unsplash.com/photo-1571513722275-4b41940f54b8?auto=format&fit=crop&w=1800&q=82"

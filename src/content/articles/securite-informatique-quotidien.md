@@ -1,6 +1,6 @@
 ---
 title: "La sécurité informatique au quotidien : mots de passe, VPN, sauvegardes"
-date: "2026-09-08"
+date: "2026-07-22"
 category: "technology"
 excerpt: "La cybersécurité n'est pas réservée aux experts. Quelques habitudes simples protègent de 95% des risques du quotidien numérique."
 image: "https://images.unsplash.com/photo-1548092372-0d1bd40894a3?auto=format&fit=crop&w=1800&q=82"

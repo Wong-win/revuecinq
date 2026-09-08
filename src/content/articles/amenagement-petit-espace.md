@@ -1,6 +1,6 @@
 ---
 title: "L'aménagement d'un petit espace de vie : 25 m² bien pensés valent mieux que 60 mal agencés"
-date: "2026-08-08"
+date: "2026-06-13"
 category: "lifestyle"
 excerpt: "Vivre dans un petit espace n'est pas une contrainte — c'est un art. Les principes pour transformer 25m² en un lieu où l'on se sent bien."
 image: "https://images.unsplash.com/photo-1505691938895-1758d7feb511?auto=format&fit=crop&w=1800&q=82"
