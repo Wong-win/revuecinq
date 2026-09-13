@@ -4,7 +4,12 @@ import ArticleCard from "../components/ArticleCard.astro";
 import { getCollection } from "astro:content";
 
 const articles = (await getCollection("articles")).sort(
-  (a, b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()
+  (a, b) => {
+    // Featured articles always sort to the top, then by date descending
+    const af = a.data.featured ? 1 : 0; const bf = b.data.featured ? 1 : 0;
+    if (af !== bf) return bf - af;
+    return new Date(b.data.date).getTime() - new Date(a.data.date).getTime();
+  }
 );
 
 const categoryLabels: Record<string, string> = {
