@@ -1,6 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://www.revuecinq.com/sitemap.xml
-# RSS feed
-# https://www.revuecinq.com/rss.xml
