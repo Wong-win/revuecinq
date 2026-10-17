@@ -6,7 +6,6 @@ excerpt: "Des plantes qui pardonnent l'oubli d'arrosage, le manque de lumière, 
 image: "https://images.unsplash.com/photo-1459411552884-841db9b3cc2a?auto=format&fit=crop&w=1800&q=82"
 imageAlt: "Plantes vertes d'intérieur dans un salon lumineux"
 keywords: "plantes intérieur, plantes faciles, débutant, maison, jardin"
-featured: true
 ---
 
 Il y a deux types de personnes : celles qui rentrent chez elles avec un philodendron sous le bras et qui le voient mourir en trois semaines, et celles qui n'osent plus rien acheter depuis le cactus qu'elles ont noyé en 2019. Pour les deux, il existe des solutions.

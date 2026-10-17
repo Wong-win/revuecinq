@@ -6,7 +6,6 @@ excerpt: "Construire un dressing qui dure dix ans plutôt que dix saisons — le
 image: "https://images.unsplash.com/photo-1567401893414-76b7b1e5a7a5?auto=format&fit=crop&w=1800&q=82"
 imageAlt: "Vestiaire organisé avec des vêtements neutres et bien rangés"
 keywords: "vestiaire capsule, garde-robe minimaliste, mode durable, dressing"
-featured: true
 ---
 
 Il y a une différence entre avoir beaucoup de vêtements, et avoir la bonne garde-robe. La première se mesure en mètres de penderie ; la seconde en matinées où l'on s'habille sans hésiter.

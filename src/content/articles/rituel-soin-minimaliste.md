@@ -6,7 +6,6 @@ excerpt: "Une routine qui prend moins de cinq minutes, qui produit de vrais rés
 image: "https://images.unsplash.com/photo-1591348278863-a8fb3887e2aa?auto=format&fit=crop&w=1800&q=82"
 imageAlt: "Flacons de produits de soin minimalistes posés sur un plateau en marbre"
 keywords: "routine soin minimaliste, skincare française, produits simples, soin peau"
-featured: true
 ---
 
 L'industrie cosmétique adore la complexité. Dix étapes, sept sérums, deux masques, trois acides. Mais ce que la peau demande vraiment, c'est de la constance — pas de l'accumulation.

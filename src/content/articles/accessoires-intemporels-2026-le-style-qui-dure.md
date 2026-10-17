@@ -6,7 +6,6 @@ excerpt: "Une montre bien choisie, un sac de bonne coupe, un foulard en soie —
 image: "https://images.unsplash.com/photo-1524592094714-0f0654e20314?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MzIzODl8MHwxfHNlYXJjaHwxfHxsZWF0aGVyJTIwd2F0Y2glMjBicmFjZWxldCUyMG1pbmltYWx8ZW58MHwwfHx8MTc4OTI5NzQ3MHww&ixlib=rb-4.1.0&q=80&w=1800"
 imageAlt: "Montre mécanique en cuir, bracelet et accessoires de mode sur une table en bois"
 keywords: "accessoires intemporels, mode durable, foulard en soie, sac en cuir, montre vintage, joaillerie minimaliste"
-featured: true
 ---
 
 Le vêtement est un costume. L'accessoire est une signature. C'est lui qui distingue une tenue correcte d'une tenue qui a un propriétaire. Une femme en jean et pull blanc passe inaperçue. Une femme en jean, pull blanc, montre bien choisie, foulard de soie noué autour du cou et sac de bonne coupe, elle, est immédiatement lisible — et mémorisable.
