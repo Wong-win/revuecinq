@@ -48,7 +48,7 @@ Deux modèles à éviter en investissement : la basket blanche (qui se salit et 
 
 ## Les marques françaises qui méritent le détour
 
-La France a conservé un savoir-faire de la chaussure qui est presque独一无二的 en Europe. Quatre maisons sortent du lot.
+La France a conservé un savoir-faire de la chaussure qui est presque unique en Europe. Quatre maisons sortent du lot.
 
 **JM Weston.** Fondée en 1891 à Limoges, JM Weston est probablement la plus grande maison française de chaussures pour hommes encore en activité. La fabrication est 100% française, les semelles sont cousues (Goodyear ou Norvégien selon les modèles), les cuirs sont tannés en France ou en Italie. Le derby « 180 » et le mocassin « Loafer » sont les modèles emblématiques. C'est cher (650€ à 1500€ la paire), mais c'est probablement la chaussure française qui se transmet le mieux. Un Weston bien entretenu passe trente ans.
 

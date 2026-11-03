@@ -8,9 +8,9 @@ imageAlt: "Latte art dans une tasse en céramique sur un comptoir en bois"
 keywords: "café maison, espresso, french press, café filtre, machines café, maison"
 ---
 
-Il y a二十 ans, le café à la maison rimait avec deux options : le filtre en papier posésur la machine en plastique de la belle-mère, ou l'inusable capsules en aluminium qui finissaitpar envahir la poubelle. Aujourd'hui, le paysage a changé. Les machines à expresso manuellesont retrouvées les comptoirs des particuliers, le café de spécialité a envahi les épiceries fines,et le consommateur — c'est-à-dire vous — a compris que le café est un produit agricole quin'a rien à envier au vin en matière de complexité aromatique. La question n'est plus « quelcafé boire » mais « quelle tasse veut-on, et avec quels moyens l'obtenir ».
+Il y a vingt ans, le café à la maison rimait avec deux options : le filtre en papier posé sur la machine en plastique de la belle-mère, ou l'inusable capsule en aluminium qui finissait par envahir la poubelle. Aujourd'hui, le paysage a changé. Les machines à expresso manuelles ont retrouvé les comptoirs des particuliers, le café de spécialité a envahi les épiceries fines, et le consommateur — c'est-à-dire vous — a compris que le café est un produit agricole qui n'a rien à envier au vin en matière de complexité aromatique. La question n'est plus « quel café boire » mais « quelle tasse veut-on, et avec quels moyens l'obtenir ».
 
-Trois méthodes se partagent aujourd'hui le marché domestique : l'espresso — extrait sous pression, court et intense ; le filtre — lent, doux, aromatique ; la french press — par infusion, ronde et charnue.Chacune a sa philosophie, son matériel, ses adeptes. Aucune n'est supérieure aux autres ;elles répondent à des moments différents de la journée et à des palais différents.
+Trois méthodes se partagent aujourd'hui le marché domestique : l'espresso — extrait sous pression, court et intense ; le filtre — lent, doux, aromatique ; la french press — par infusion, ronde et charnue. Chacune a sa philosophie, son matériel, ses adeptes. Aucune n'est supérieure aux autres ; elles répondent à des moments différents de la journée et à des palais différents.
 
 ![Café au lait avec mousse dans une tasse sur un comptoir](https://images.unsplash.com/photo-1615897570582-285ffe259530?auto=format&fit=crop&w=1800&q=82)
 
@@ -26,7 +26,7 @@ L'espresso est un rituel court, technique, exigeant. Trente millilitres d'eau à
 
 **La température de service** compte : on boit un espresso entre 60 et 70 °C, jamais brûlant. Une tasse réchauffée à l'eau chaude avant le service est un détail qui change tout.
 
-Pour ceux qui ne veulent pas du rituel mais qui aiment l'espresso, les machines à capsules Nespresso ont encore leur place, à condition de choisir des capsules de qualité — lescompatibles aujourd'hui rivalisent souvent avec les originales, pour un coût divisé par deux.
+Pour ceux qui ne veulent pas du rituel mais qui aiment l'espresso, les machines à capsules Nespresso ont encore leur place, à condition de choisir des capsules de qualité — les compatibles aujourd'hui rivalisent souvent avec les originales, pour un coût divisé par deux.
 
 ## Le filtre : la voie japonaise et scandinave
 

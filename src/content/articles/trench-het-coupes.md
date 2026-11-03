@@ -10,7 +10,7 @@ keywords: "trench coat, imperméable, beige, kaki, coupe trench, comment choisir
 
 Le trench-coat est, avec le jean et le maillot blanc, l'une des rares pièces qui a véritablement conquis le monde. Un officier britannique du début du xxe siècle ne s'habillait pas autrement qu'une Parisienne du boulevard Saint-Germain en 2025, ni qu'un cadre new-yorkais un mardi matin. La pièce a traversé les guerres, les modes, les genres, les continents — et elle reste, après cent vingt ans d'existence, le manteau le plus universellement reconnaissable.
 
-C'est précisément pour cette raison qu'il est difficile à choisir. Tout le monde porte un trench, mais tout le monde ne le porte pas bien. Le mauvais trench fait « costume ». Le bon trench fait «这个人 a un style ». La différence tient à quatre critères — la couleur, la matière, la longueur, et la coupe — qu'il faut comprendre avant d'acheter.
+C'est précisément pour cette raison qu'il est difficile à choisir. Tout le monde porte un trench, mais tout le monde ne le porte pas bien. Le mauvais trench fait « costume ». Le bon trench fait « quelqu'un a un style ». La différence tient à quatre critères — la couleur, la matière, la longueur, et la coupe — qu'il faut comprendre avant d'acheter.
 
 ## Petite histoire du trench
 
@@ -78,7 +78,7 @@ Quatre erreurs fréquentes.
 
 Un trench en coton gabardine bien entretenu dure vingt ans. Trois règles.
 
-**Nettoyage à sec occasionnel.** Un trench ne se lave pas en machine. Le pressing, une fois par an en fin de saison, suffit. Les taches局部 peuvent être traitées avec un chiffon humide et un savon doux.
+**Nettoyage à sec occasionnel.** Un trench ne se lave pas en machine. Le pressing, une fois par an en fin de saison, suffit. Les taches localisées peuvent être traitées avec un chiffon humide et un savon doux.
 
 **Imperméabilisation.** Tous les deux ou trois ans, un spray imperméabilisant pour textile, appliqué uniformément après nettoyage. C'est ce qui maintient la déperlance du tissu.
 

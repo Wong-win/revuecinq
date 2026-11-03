@@ -18,7 +18,7 @@ Avant toute considération technique, le « pourquoi » mérite d'être posé.
 
 **La durabilité**. Un bon switch mécanique est conçu pour 50 à 100 millions de frappes, là où une membrane à dôme en caoutchouc commence à défaillir après 5 à 10 millions. Un clavier mécanique haut de gamme dure dix ans et plus, là où un clavier d'ordinateur portable atteint sa limite en trois à cinq ans.
 
-**Le son et le触感**. C'est subjectif, mais c'est aussi l'un des plaisirs du clavier mécanique : le « clac » d'un switch tactile, le « thock » d'un clavier bien lubrifié, le « clack » d'un clavier avec keycaps en PBT. C'est l'un des éléments qui transforme l'expérience de travail en plaisir.
+**Le son et le toucher**. C'est subjectif, mais c'est aussi l'un des plaisirs du clavier mécanique : le « clac » d'un switch tactile, le « thock » d'un clavier bien lubrifié, le « clack » d'un clavier avec keycaps en PBT. C'est l'un des éléments qui transforme l'expérience de travail en plaisir.
 
 **Le son autour**. Le clavier mécanique fait du bruit, c'est un fait. Pour qui travaille en open space ou en coloc', c'est un problème. Pour qui travaille seul chez soi, c'est souvent un plaisir. Le choix du switch (linéaire, tactile, clicky) et de la lubrification fait une différence considérable sur le niveau sonore.
 
@@ -26,7 +26,7 @@ Avant toute considération technique, le « pourquoi » mérite d'être posé.
 
 ## Les switches : le cœur du sujet
 
-Le switch est le mécanisme sous chaque touche. C'est lui qui détermine le触感, le son, et la sensation de frappe. Trois grandes familles.
+Le switch est le mécanisme sous chaque touche. C'est lui qui détermine le toucher, le son, et la sensation de frappe. Trois grandes familles.
 
 **Les switches linéaires** produisent une frappe fluide, sans résistance ni clic. La course est régulière de haut en bas. C'est le choix des joueurs (qui enchaînent des frappes rapides) et de beaucoup de rédacteurs. Les références en 2026 :
 
@@ -75,9 +75,9 @@ Le clavier mécanique est disponible en plusieurs formats, qui correspondent à 
 
 ![Clavier mécanique compact 75% avec keycaps rétroéclairées RGB](https://images.unsplash.com/photo-1601445638532-3c6f6c3aa1d6?auto=format&fit=crop&w=1800&q=82)
 
-## Les keycaps : l'esthétique et le触感
+## Les keycaps : l'esthétique et le toucher
 
-Les keycaps sont les capuchons qui recouvrent les switches. Ils ont une influence considérable sur le触感, le son, et l'esthétique.
+Les keycaps sont les capuchons qui recouvrent les switches. Ils ont une influence considérable sur le toucher, le son, et l'esthétique.
 
 **Le matériau** : deux grands choix.
 
@@ -179,7 +179,7 @@ Un bon clavier mécanique dure dix ans et plus, à condition d'un minimum d'entr
 
 **Le nettoyage des switches** : utiliser une bombe d'air comprimé pour souffler les débris entre les switches. Ne jamais asperger de liquide directement sur les switches.
 
-**La lubrification** : pour qui veut optimiser le触感, lubrifier les stabilisateurs (avec du Krytox 205g0 ou du dielectric grease) transforme un son « clack » en « thock ». La lubrification des switches est réservée aux passionnés, car elle demande du temps et du savoir-faire.
+**La lubrification** : pour qui veut optimiser le toucher, lubrifier les stabilisateurs (avec du Krytox 205g0 ou du dielectric grease) transforme un son « clack » en « thock ». La lubrification des switches est réservée aux passionnés, car elle demande du temps et du savoir-faire.
 
 **Le stockage** : éviter la lumière directe du soleil (qui décolore les keycaps) et l'humidité (qui corrode les contacts). Une housse est recommandée pour les transports.
 
@@ -187,7 +187,7 @@ Un bon clavier mécanique dure dix ans et plus, à condition d'un minimum d'entr
 
 Le clavier mécanique en 2026 est un objet mature. Pour qui tape plusieurs heures par jour, c'est l'investissement tech qui change le plus la qualité de l'expérience de travail, après un bon écran et une bonne chaise. Pour qui tape occasionnellement, c'est un luxe dont on peut se passer.
 
-Le bon clavier est celui qu'on utilise tous les jours. Les keycaps qu'on apprécie, le触感 qu'on cherche, le son qu'on aime. C'est un objet personnel, presque intime, qui mérite qu'on prenne le temps de le choisir.
+Le bon clavier est celui qu'on utilise tous les jours. Les keycaps qu'on apprécie, le toucher qu'on cherche, le son qu'on aime. C'est un objet personnel, presque intime, qui mérite qu'on prenne le temps de le choisir.
 
 Les marques comme Keychron, Nuphy, Logitech, et les acteurs français comme Mode Designs, Sonnet, TKC, proposent en 2026 des produits accessibles à tous les budgets et tous les usages. Le choix n'est plus une affaire de compromis entre prix et qualité : il est devenu une affaire de goût.
 

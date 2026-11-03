@@ -50,7 +50,7 @@ Toutes les pierres ne se valent pas, et toutes ne vieillissent pas de la même m
 
 **Les pierres fines (améthyste, citrine, topaze, péridot, tourmaline, aigue-marine).** Plus tendres que les précieuses (dureté 7 à 8), elles se rayent plus facilement, mais restent durables pour un usage quotidien. La maison Marie Hélène de Taillac a bâti son identité autour des pierres fines colorées — chaque pièce est pensée comme une rencontre entre une pierre et une forme. Les prix sont raisonnables (200€ à 2000€), l'originalité maximale.
 
-**Les perles.** Perles fines (naturelles, rarissimes) ou perles de culture (japonaises Akoya, tahitiennes, australiennes). Une perle de culture de bonne qualité, portée régulièrement, dure toute une vie — et développe avec le temps une patine caractéristique, l'« orient ». Les perles Mikimoto, Pasquale Bruni, ou les perles plus confidentielles de la maison Parisian Bijoux résistent à三十 ans d'usage. La règle : pas de parfum, pas de contact avec la peau humide, ranger à plat.
+**Les perles.** Perles fines (naturelles, rarissimes) ou perles de culture (japonaises Akoya, tahitiennes, australiennes). Une perle de culture de bonne qualité, portée régulièrement, dure toute une vie — et développe avec le temps une patine caractéristique, l'« orient ». Les perles Mikimoto, Pasquale Bruni, ou les perles plus confidentielles de la maison Parisian Bijoux résistent à trente ans d'usage. La règle : pas de parfum, pas de contact avec la peau humide, ranger à plat.
 
 **Les pierres ornementales (quartz, agate, lapis-lazuli, turquoise).** Tendres (dureté 5 à 7), elles se rayent et s'ébrèchent facilement. Beaux à regarder, mais à réserver aux bijoux occasionnels. La maison Gas Bijoux joue beaucoup sur ces pierres — et ses pièces sont magnifiques, à condition de les porter avec soin.
 
@@ -74,7 +74,7 @@ Le bijou français contemporain est l'un des plus vivants au monde. Sept noms so
 
 ## Les pièces qui traversent les modes
 
-Toutes les formes de bijou ne se valent pas. Certaines ont fait leurs preuves depuis五十 ans.
+Toutes les formes de bijou ne se valent pas. Certaines ont fait leurs preuves depuis cinquante ans.
 
 **Le jonc en or.** Le bracelet rigide, simple, sans fermoir (on l'enfile en forçant légèrement). C'est la forme la plus ancienne du bijou — des pharaons aux années 1920, il n'a pas changé. Un jonc en or 18 carats, épais (3mm minimum), se porte à vie. Les versions en or martelé, ciselé, ou lisse sont toutes acceptables. Cartier (le « Love », lancé en 1969, est devenu un classique absolu) et Aurélie Bidermann ont leurs versions.
 

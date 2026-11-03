@@ -74,6 +74,6 @@ Cette routine, appliquée pendant six mois, produit des résultats visibles : te
 
 ## Ce qu'il faut retenir
 
-L'anti-âge n'est pas une question de quantité. C'est une question de constance et de choix. Les trois actifs mentionnés (rétinol, vitamine C, acide hyaluronique) ont chacun四十 ans de recul scientifique. Ce ne sont pas des nouveautés. Ce sont des classiques.
+L'anti-âge n'est pas une question de quantité. C'est une question de constance et de choix. Les trois actifs mentionnés (rétinol, vitamine C, acide hyaluronique) ont chacun quarante ans de recul scientifique. Ce ne sont pas des nouveautés. Ce sont des classiques.
 
 L'industrie cosmétique vend du rêve. La science, elle, vend du résultat. Les vrais actifs anti-âge sont connus depuis longtemps, et ils sont à la portée de toutes les bourses. Il suffit de savoir lesquels choisir, et de les utiliser avec méthode.

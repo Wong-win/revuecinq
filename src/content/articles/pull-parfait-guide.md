@@ -48,7 +48,7 @@ Les défilés le montrent chaque saison : une coupe de pull revient plus souvent
 
 **Le col roulé fin.** Plus technique à porter — il demande un cou dégagé, et il n'est pas flatteur sur tous les visages. Mais un col roulé noir ou marine en cachemire est l'une des pièces les plus élégantes qu'un homme ou une femme puisse posséder. Il remplace la chemise sous un blazer, et fonctionne seul avec un jean ou une jupe midi.
 
-**Le col V, légèrement dégagé.** Plus féminin, plus doux. Il fonctionne particulièrement bien sur les silhouettes fines, et il a l'avantage de pouvoir être porté sur un t-shirt blanc pour un effet重ねé discret. Sézane, marque française fondée en 2013, a construit une partie de son identité autour du col V bien taillé — c'est une coupe dans laquelle il est difficile de se tromper.
+**Le col V, légèrement dégagé.** Plus féminin, plus doux. Il fonctionne particulièrement bien sur les silhouettes fines, et il a l'avantage de pouvoir être porté sur un t-shirt blanc pour un effet superposé discret. Sézane, marque française fondée en 2013, a construit une partie de son identité autour du col V bien taillé — c'est une coupe dans laquelle il est difficile de se tromper.
 
 ## Ce qu'il faut éviter
 

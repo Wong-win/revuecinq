@@ -116,7 +116,7 @@ Quelques objets professionnels, autrefois réservés aux cuisines de restaurant,
 
 **La planche à découper en polyéthylene** (Hendi, Hygiplas) : plus hygiénique que le bois, passe au lave-vaisselle, dure des décennies. Coût : 20-40 € pour un modèle pro.
 
-**Les plaques à pâtisserie en aluminium** (Matfer, Gobel) : ultra-résistantes,传导 parfait de la chaleur, idéales pour les viennoiseries, les pizzas, les légumes rôtis. Coût : 10-20 €.
+**Les plaques à pâtisserie en aluminium** (Matfer, Gobel) : ultra-résistantes, à conduction parfaite de la chaleur, idéales pour les viennoiseries, les pizzas, les légumes rôtis. Coût : 10-20 €.
 
 **Les cul-de-poule en inox** (Matfer, Lacor) : pour mélanger, fouetter, laisser reposer. Inrayables, empilables, multifonctions. Coût : 8-15 € pièce selon la taille.
 

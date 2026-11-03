@@ -40,7 +40,7 @@ Trois ou quatre foulards bien choisis constituent une collection qui durera une 
 
 ## 4. Les chaussures à lacets en cuir
 
-Un derby ou un richelieu en cuir lisse, noir ou brun foncé, semelle cuir, forme classique. Les marques : JM Weston (l'investissement français ultime), Paraboot (excellent rapport qualité-prix), Church's (la référence britannique), Allen Edmonds (américaine, sous-cotée en France),甚至 Crockett & Jones.
+Un derby ou un richelieu en cuir lisse, noir ou brun foncé, semelle cuir, forme classique. Les marques : JM Weston (l'investissement français ultime), Paraboot (excellent rapport qualité-prix), Church's (la référence britannique), Allen Edmonds (américaine, sous-cotée en France), et même Crockett & Jones.
 
 Une paire portée tous les deux jours, avec des embauchoirs en cèdre, durera quinze ans. Cirée deux fois par an, ressemelée quand c'est nécessaire, elle pourra être transmise.
 

@@ -43,7 +43,7 @@ Du côté des radios privées, Radio Nova et Tsugi ont consolidé leur audience 
 
 ## Le récepteur revient
 
-Conséquence inattendue du mouvement : le marché des postes de radio physiques reprend. Pas massivement — on ne reviendra pas aux années 1970 — mais suffisamment pour que les fabricants de récepteurs设计和 marques comme Tivoli, Revo, Ruark Audio enregistrent une croissance à deux chiffres en Europe. Les objets arrivent en France par le biais de la Fnac, des magasins de design, et de quelques boutiques indépendantes comme celles du quartier du Sentier à Paris.
+Conséquence inattendue du mouvement : le marché des postes de radio physiques reprend. Pas massivement — on ne reviendra pas aux années 1970 — mais suffisamment pour que les fabricants de récepteurs et de marques comme Tivoli, Revo, Ruark Audio enregistrent une croissance à deux chiffres en Europe. Les objets arrivent en France par le biais de la Fnac, des magasins de design, et de quelques boutiques indépendantes comme celles du quartier du Sentier à Paris.
 
 Le récepteur FM — souvent numérique DAB+ désormais — n'est plus un objet ringard. Il redevient un objet de décoration intentionnelle. Une radio Tivoli Model One posée sur une étagère, c'est un manifeste discret : *je choisis ce que j'écoute, quand je l'écoute, et je n'ai pas besoin de mon téléphone pour le faire.*
 

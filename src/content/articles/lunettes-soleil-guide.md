@@ -47,7 +47,7 @@ Les traitements polarisants sont un plus, mais pas indispensables. Ils réduisen
 
 ## Les cinq formes qui traversent les modes
 
-Toutes les formes de lunettes ne se valent pas. Certaines ont fait leurs preuves depuis五十 ans.
+Toutes les formes de lunettes ne se valent pas. Certaines ont fait leurs preuves depuis cinquante ans.
 
 **Le Wayfarer.** Forme trapézoïdale, large, légèrement angulaire. Popularisée par Ray-Ban dans les années 1950, devenue iconique grâce à James Dean, Audrey Hepburn, Bob Dylan. C'est la forme la plus reconnaissable, la plus polyvalente. Fonctionne sur presque tous les visages. Ray-Ban Wayfarer, Persol 649, Celine CL41098 — toutes les maisons ont leur version.
 

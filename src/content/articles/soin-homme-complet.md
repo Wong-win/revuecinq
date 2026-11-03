@@ -84,7 +84,7 @@ Au printemps et à l'automne, les transitions sont les moments les plus délicat
 
 L'offre cosmétique masculine s'est considérablement étoffée en France depuis une dizaine d'années. Trois niveaux de marques coexistent, et le choix dépend du budget comme des attentes.
 
-**L'entrée de gamme, autour de 5 à 15 euros le produit.** Bulldog (gamme originelle à base d'ingrédients naturels), Horace (marque française fondée en 2016,定位 très précise sur le skincare masculin), Nivea Men (valeur sûre, sans surprise). Ces marques couvrent l'essentiel, sans innovation cosmétique, mais avec une fiabilité réelle.
+**L'entrée de gamme, autour de 5 à 15 euros le produit.** Bulldog (gamme originelle à base d'ingrédients naturels), Horace (marque française fondée en 2016, au positionnement très précis sur le skincare masculin), Nivea Men (valeur sûre, sans surprise). Ces marques couvrent l'essentiel, sans innovation cosmétique, mais avec une fiabilité réelle.
 
 **Le milieu de gamme, autour de 15 à 40 euros.** Proraso (italienne, référence mondiale du rasage traditionnel), Baxter of California (californienne, packaging soigné, formulations honnêtes), Acqua di Parma (italienne haut de gamme, parfums et soins), Maison Kitsuné (soins et fragrances). Ces marques offrent un équilibre entre qualité, sensorialité, et prix.
 

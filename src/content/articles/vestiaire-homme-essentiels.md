@@ -58,7 +58,7 @@ Marques : A.P.C. (chino « moderne » à 130€), AMI Paris à 150€, Officine 
 
 **7. Le pull col rond en cachemire ou laine mérinos.** Le pull qui traverse l'automne-hiver. Cachemire pour la douceur, laine mérinos pour la durabilité. Couleurs : marine, gris chiné, camel, noir. Un pull de qualité, bien entretenu, dure dix ans.
 
-Marques : Saint James (laine vierge), Eric Bompard (cachemire français depuis三十 ans), Kujten (jeune marque française qui fait du cachemire à 200€), ou pour un investissement haut de gamme, The Elder Statesman ou Bottega Veneta.
+Marques : Saint James (laine vierge), Eric Bompard (cachemire français depuis trente ans), Kujten (jeune marque française qui fait du cachemire à 200€), ou pour un investissement haut de gamme, The Elder Statesman ou Bottega Veneta.
 
 **8. La parka kaki ou marine.** La pièce d'extérieur qui remplace avantageusement le manteau court pour les jours de pluie. Parka mi-longue (au-dessus du genou), capuche, doublure intérieure, fermeture éclair protégée par un rabat. En toile cirée ou en coton déperlant.
 

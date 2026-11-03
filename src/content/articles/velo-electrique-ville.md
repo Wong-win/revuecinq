@@ -56,7 +56,7 @@ Le vélo électrique est soumis à une réglementation précise en France, issue
 
 **La puissance du moteur est limitée à 250W** (puissance nominale continue). Le moteur ne doit pas propulser le vélo au-delà de 25 km/h — au-delà, l'assistance se coupe et le vélo avance par la seule force musculaire (ou pas, selon le poids). C'est ce qu'on appelle un VAE « lent » ou « 25 km/h », et c'est le seul autorisé sans immatriculation, sans assurance, et sans permis.
 
-**Les « speed bikes »** ou VAE rapides (assistance jusqu'à 45 km/h) sont dans une catégorie intermédiaire. Ils sont considérés comme des cyclomoteurs : immatriculation obligatoire, assurance requise, port du casque摩托车强制, et interdiction de circuler dans les zones piétonnes et la plupart des pistes cyclables. C'est une catégorie très réglementée en France, et les contrôles sont rares mais possibles.
+**Les « speed bikes »** ou VAE rapides (assistance jusqu'à 45 km/h) sont dans une catégorie intermédiaire. Ils sont considérés comme des cyclomoteurs : immatriculation obligatoire, assurance requise, port du casque obligatoire, et interdiction de circuler dans les zones piétonnes et la plupart des pistes cyclables. C'est une catégorie très réglementée en France, et les contrôles sont rares mais possibles.
 
 **Le port du casque** n'est pas obligatoire pour les VAE 25 km/h en France, mais il reste très fortement recommandé. Pour les enfants de moins de 12 ans, le casque est obligatoire (comme pour tous les vélos).
 
